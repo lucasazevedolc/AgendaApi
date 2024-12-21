@@ -1,0 +1,19 @@
+# Pastas geradas automaticamente pelo Visual Studio
+bin/
+obj/
+.vs/
+
+# Arquivos de configuração local
+*.user
+*.suo
+
+# Logs e temporários
+*.log
+*.tmp
+
+# Configuração do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Configurações de build
+*.ide
